@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotiranjan-nayak&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiranjan-nayak&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=jyotiranjan-nayak&theme=radical&margin-w=10&row=2&column=4" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayhitojyoti&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayhitojyoti&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayhitojyoti&theme=radical&margin-w=10&row=2&column=4" alt="Trophies" />
 </div>
 
 ---
@@ -41,8 +41,8 @@
 ## 🎯 Recent Activity  
 <!--START_SECTION:activity-->
 1. 💬 Commented on [Issue #123](https://github.com/example/example-repo/issues/123)
-2. 🚀 Pushed a new update to [QR Code Generator](https://github.com/jyotiranjan-nayak/qr-code-generator)
-3. 🎯 Opened a PR in [Placement Management System](https://github.com/jyotiranjan-nayak/placement-management)
+2. 🚀 Pushed a new update to [QR Code Generator](https://github.com/sayhitojyoti/qr-code-generator)
+3. 🎯 Opened a PR in [Placement Management System](https://github.com/sayhitojyoti/placement-management)
 <!--END_SECTION:activity-->
 
 ---
