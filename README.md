@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Jyotiranjan Nayak</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | Tech Innovator</h3>
+<h3 align="center">Full Stack Developer | BackEnd Developer | Tech Innovator</h3>
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,spring,hibernate,mysql,postgresql,react,figma,git,github,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,spring,hibernate,mysql,postgresql,react,figma,git,github,postman" />
 </p>
 
 ---
